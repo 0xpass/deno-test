@@ -1,0 +1,4 @@
+.env
+
+# Optional: ignore this junk file often generated on mac OS
+.DS_Store
